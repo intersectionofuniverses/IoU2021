@@ -16,10 +16,9 @@ author:
   email: intersectionofuniverses@gmail.com # email adress
 
 # URL settings
-url: "https://iou.center" #
-baseurl: "https://iou.center" # leave blank if not wishd
-permalink: "https://iou.center"
-permalink: iou 
+url: "https://intersectionofuniverses.github.io" #
+baseurl: "IoU2021" # leave blank if not wishd
+permalink: IoU2021
 
 
 markdown: kramdown
